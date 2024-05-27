@@ -1,0 +1,17 @@
+D:\Stuff\Projects\VS projects\TournamentCreator\bin\Debug\TournamentCreator.exe.config
+D:\Stuff\Projects\VS projects\TournamentCreator\bin\Debug\TournamentCreator.exe
+D:\Stuff\Projects\VS projects\TournamentCreator\bin\Debug\TournamentCreator.pdb
+D:\Stuff\Projects\VS projects\TournamentCreator\obj\Debug\TournamentCreator.csproj.AssemblyReference.cache
+D:\Stuff\Projects\VS projects\TournamentCreator\obj\Debug\TournamentCreator.csproj.SuggestedBindingRedirects.cache
+D:\Stuff\Projects\VS projects\TournamentCreator\obj\Debug\TournamentCreator.Menu.resources
+D:\Stuff\Projects\VS projects\TournamentCreator\obj\Debug\TournamentCreator.Properties.Resources.resources
+D:\Stuff\Projects\VS projects\TournamentCreator\obj\Debug\TournamentCreator.csproj.GenerateResource.cache
+D:\Stuff\Projects\VS projects\TournamentCreator\obj\Debug\TournamentCreator.csproj.CoreCompileInputs.cache
+D:\Stuff\Projects\VS projects\TournamentCreator\obj\Debug\TournamentCreator.exe
+D:\Stuff\Projects\VS projects\TournamentCreator\obj\Debug\TournamentCreator.pdb
+D:\Stuff\Projects\VS projects\TournamentCreator\obj\Debug\TournamentCreator.Creator.resources
+D:\Stuff\Projects\VS projects\TournamentCreator\obj\Debug\TournamentCreator.Events.resources
+D:\Stuff\Projects\VS projects\TournamentCreator\obj\Debug\TournamentCreator.Scores.resources
+D:\Stuff\Projects\VS projects\TournamentCreator\bin\Debug\Newtonsoft.Json.dll
+D:\Stuff\Projects\VS projects\TournamentCreator\bin\Debug\Newtonsoft.Json.xml
+D:\Stuff\Projects\VS projects\TournamentCreator\obj\Debug\TournamentCreator.csproj.CopyComplete

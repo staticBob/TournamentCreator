@@ -1,0 +1,44 @@
+{
+  "Participants": [
+    {
+      "Name": "sdfsf3f",
+      "IsIndividual": false,
+      "TeamName": "sdfsdf",
+      "EventName": null,
+      "Ranking": 0
+    },
+    {
+      "Name": "dfsfsf",
+      "IsIndividual": true,
+      "TeamName": null,
+      "EventName": null,
+      "Ranking": 0
+    }
+  ],
+  "Teams": [
+    {
+      "TeamName": "sdfsdf",
+      "teamFull": false,
+      "Participants": [
+        {
+          "Name": "sdfsf3f",
+          "IsIndividual": false,
+          "TeamName": "sdfsdf",
+          "EventName": null,
+          "Ranking": 0
+        }
+      ]
+    },
+    {
+      "TeamName": "sdfsdf",
+      "teamFull": false,
+      "Participants": []
+    },
+    {
+      "TeamName": "sdfsdf",
+      "teamFull": false,
+      "Participants": []
+    }
+  ],
+  "Events": null
+}
